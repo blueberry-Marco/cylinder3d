@@ -31,3 +31,7 @@
         └── 21/
 	    └── ...
 ```
+
+## Training
+1. modify the config/semantickitti.yaml with your custom settings. 
+2. train the network by running " python train_cylinder_asym.py"

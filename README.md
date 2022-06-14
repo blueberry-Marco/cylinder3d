@@ -34,6 +34,6 @@
 
 ## Training
 1. modify the config/semantickitti.yaml with your custom settings such as "data_path"
-2. down the module from 
+2. down the module from 链接：https://pan.baidu.com/s/15srvIoTwUrUF_9Xd6irTKA 提取码：9888 
 3. modify the pytorch_device which you will use in "train_cylinder_asym.py"
 4. train the network by running "python train_cylinder_asym.py"
